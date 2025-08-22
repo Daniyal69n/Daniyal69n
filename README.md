@@ -1,4 +1,4 @@
-## Hi there, I am Daniyal Ahmed Gul 👋
+### Hi there, I am Daniyal Ahmed Gul 👋
 # 💫 About Me:
 Aspiring Computer Science graduate with a passion for technology and innovation<br>💻 Web Development<br>⚡ JavaScript<br>🤖 Machine Learning<br>🐍 Python<br>🔧 MERN Stack Developer<br>🌟 Passionate about learning new technologies and creating positive impact
 
